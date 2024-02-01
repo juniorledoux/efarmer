@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
+
+/* .container {
+  position: relative;
+  color: white;
+  /*Note, you can change the color to your choice depending on your 
+  image and what color blends with i
+} */
+
+
+.contentO{
+  /* content: ""; */
+  opacity: 0.8;
+  background: url("./images/home.jpg") no-repeat fixed top;
+  background-blend-mode: darken;
+  /* also change the blend mode to what suits you, from darken, to other 
+  many options as you deem fit*/
+  background-size: cover;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+  z-index: 0;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.upperO{
+  text-transform:uppercase;
+}
+
+.capitalizeO{
+  text-transform:capitalize;
+}
+
+.lowerO{
+  text-transform:lowercase;
+}
+
+.logoO{
+  position: center;
+  padding: 3rem;
+}
+
+.welcomeO{
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: 80px;
+  margin-bottom: 10px;
+  font-family:"Quicksand";
+  color: rgb(255, 254, 254);
+  
+}
+
+.engO{
+  font-size: 25px;
+  font-weight: bold;
+  font-style: italic;
+  font-family:"Quicksand";
+  color: rgb(255, 254, 254);
+  
+}
+
+.contentO{
+  margin: 40px auto;
+  padding: 20px;
+}
+
+/*buttons*/
+
+.btnO{
+  max-width:100px;
+  background-color:rgb(6, 94, 247);
+  border-radius: 1rem;
+  font-weight: bold;
+  font-family: "Quicksand";
+  color: white;
+  padding: 0.8rem;
+}
+
+.btnsO{
+    margin-top: 80px;
+    
+}
+

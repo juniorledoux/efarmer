@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+.card-link-hover:hover {
+  background-color: #4b49ac50;
+  color: rgb(221, 14, 14);
+}
+.card-danger:hover {
+  background-color: #0b7fb457;
+  color: rgb(14, 28, 221);
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.fs-30{
+  line-height: 2rem;
+}

@@ -1,0 +1,22 @@
+{
+	"short_name": "Sfarmer",
+	"name": "Sfarmer",
+	"icons": [
+		{
+			"src": "./favicon.png",
+			"sizes": "512x512 192x192 64x64 32x32 24x24 16x16",
+			"type": "image/png"
+		},
+		{
+			"src": "./favicon.png",
+			"sizes": "512x512 192x192 64x64 32x32 24x24 16x16",
+			"type": "image/png",
+			"purpose": "maskable"
+		}
+	],
+	"start_url": "./index.html",
+	"display": "standalone",
+	"theme_color": "#000000",
+	"background_color": "#ffffff",
+	"orientation": "portrait-primary"
+}

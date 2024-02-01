@@ -1,0 +1,35 @@
+.form-perso{
+    width: 50%;
+    float: left;
+}
+.popup-update{
+    width: 180% !important;
+    text-overflow: clip;
+    text-align: right; 
+    background-color: #FFF;
+    padding: 15px;
+    margin-left: -40px;
+}
+.popup-add{
+    width: 200% !important;
+    background-color: #FFF;
+    padding: 16px;
+    height: 350px;
+    overflow: auto;
+}
+.progess{
+    width: auto;
+}
+
+.transition-1{
+     transition: width 2s;
+}
+
+.transition-2{
+    transition-duration: 2s;
+}
+
+.hover-sidebar:hover{
+    color: rgba(76, 16, 255, 0.777);
+    background-color: none;
+}

@@ -1,0 +1,9 @@
+node_modules/
+*.pdf
+# Local Netlify folder
+backend/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+files/
